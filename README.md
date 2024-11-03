@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @OrkhanMehbaliyev
-- 👀 I’m interested in Web and Game Development
-- 📗 I am currently a third-year Computer Engineering student at Baku Higher Oil School
-- 🌱 I’m currently studying MERN-Stack course
-- 📫 You can reach me via email : mehbaliyevorxan2003@gmail.com
+👋 Hi, I’m @OrkhanMehbaliyev
+You can reach me via email : mehbaliyevorxan2003@gmail.com
 
 
 <!---
