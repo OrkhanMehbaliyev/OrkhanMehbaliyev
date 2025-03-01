@@ -1,23 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7842d&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Orkhan;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7842d&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Orkhan;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<a href="https://discord.gg/5dZPVytKnn">
-    <h3 align="center">
+
+<h2 align="center">
+    <b>
         Junior Web Developer
-    </h3>
-</a>
+    </b>
+</h2>
+
 Hi! I am a skilled web developer with experience in building dynamic, high-performance web applications. My expertise in React and TypeScript allows me to create scalable and efficient user interfaces, while my backend knowledge in Node.js, Express.js, and PostgreSQL helps me develop full-stack solutions. Additionally, I am familiar with WebSockets and GIS-based applications. I follow Agile methodologies, use Git for version control, and have worked with Jira and Bitbucket for project management. Currently, I am learning C#, studying Cloud Computing, Network Fundamentals, and Operating Systems.
 
 ### 📈 GitHub Activity Graph:
-
-<p align="center">
-  <a href="https://github.com/orkhanmehbaliyev">
-    <img align="center"
-         height="150em"
-         src="https://streak-stats.demolab.com?user=orkhanmehbaliyev&theme=aura&hide_border=false&border_radius=10" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/orkhanmehbaliyev">
@@ -66,7 +60,7 @@ Hi! I am a skilled web developer with experience in building dynamic, high-perfo
 <br></div>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7842d&height=120&section=footer"/>
 
 <!---
 OrkhanMehbaliyev/OrkhanMehbaliyev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
