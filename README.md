@@ -42,10 +42,6 @@ Hi! I am a skilled software developer with experience in building dynamic, high-
  </div>
 </p>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{orkhanmehbaliyev}/count.svg" /></p> 
-<br></div>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7842d&height=120&section=footer"/>
