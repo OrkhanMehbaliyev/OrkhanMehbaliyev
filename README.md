@@ -9,8 +9,7 @@
     </b>
 </h2>
 
-Hi! I am a skilled software developer with experience in building dynamic, high-performance web applications. My expertise in React and TypeScript allows me to create scalable and efficient user interfaces, while my backend knowledge in Node.js, Express.js, and databases, such as PostgreSQL, MySQL and MongoDB, helps me develop full-stack solutions. I follow Agile methodologies, use Git for version control, and have worked with Jira for project management. Currently, I am learning C#, studying Cloud Computing, Network Fundamentals, and Operating Systems.
-
+Hi! I am a skilled software developer with experience in building dynamic, high-performance web applications. My expertise in React and TypeScript allows me to create scalable and efficient user interfaces, while my backend knowledge in Golang, Node.js, and databases, such as PostgreSQL, MySQL, DynamoDB, and MongoDB, helps me develop full-stack solutions.
 ### 📈 GitHub Activity Graph:
 
 <p align="center">
